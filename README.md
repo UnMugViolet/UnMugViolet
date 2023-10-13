@@ -1,10 +1,18 @@
-### Hello there ☕
+# Hello there ☕
+</br>
 
 My name is Paul Jaguin, I'm a student in web developpement. I'm working in France, more specifically in Rennes󠁦󠁲, Brittany. 
 
 Currently in apprenticeship at Screenup
- 
+
 - 👯 I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server" style="color: #fffff"> 🌱 pangaia.app</a>
+ - 🔭 I’m currently working on my portfolio
+ - 📫 How to reach me:
+   
+        jaguinpaul@gmail.com
+  
+
+</br>
 
 ## 🧑🏼‍💻 Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/Code-PHP-informational?logo=php&logoColor=white&color=%23777BB4)
@@ -21,7 +29,10 @@ Currently in apprenticeship at Screenup
 ![Static Badge](https://img.shields.io/badge/Tools-docker-informational?logo=docker&logoColor=white&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/Tools-phpmyadmin-informational?logo=phpmyadmin&logoColor=white&color=%236C78AF)
 
+</br>
+
 ## 🔬 GitHub Stats
+</br>
 <a href="https://github.com/UnMugViolet/UnMugViolet" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnMugViolet&langs_count=3&theme=react"" alt="Paul's GitHub languages" height="200"/>
 </a>
@@ -29,18 +40,3 @@ Currently in apprenticeship at Screenup
 <a href="https://github.com/UnMugViolet/UnMugViolet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=UnMugViolet&theme=react&show_icons=true" alt="Paul's GitHub page" height="200"/>
 </a>
-
-<!--
-**UnMugViolet/UnMugViolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
