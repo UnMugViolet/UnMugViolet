@@ -1,22 +1,19 @@
 # Hello there ☕
-</br>
 
 My name is Paul Jaguin, I'm a student in web developpement. I'm working in France, more specifically in Rennes󠁦󠁲, Brittany. 
 
-Currently in apprenticeship at Screenup
+Currently in apprenticeship at Screenup !
 
-- 👯 I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server" style="color: #fffff"> 🌱 pangaia.app</a>
- - 🔭 I’m currently working on my portfolio
- - 📫 How to reach me:
+- 🌱  I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server">pangaia.app</a>
+- 🔭 I’m currently working on my portfolio
+- 📫 How to reach me:
    
         jaguinpaul@gmail.com
-  
-
-</br>
+ </br>
 
 ## 🧑🏼‍💻 Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/Code-PHP-informational?logo=php&logoColor=white&color=%23777BB4)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
+![Static Badge](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 ![Static Badge](https://img.shields.io/badge/Code-mysql-informational?logo=mysql&logoColor=white&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/Code-react-informational?logo=react&logoColor=white&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
