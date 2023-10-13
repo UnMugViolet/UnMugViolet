@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnMugViolet)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=UnMugViolet&theme=dracula"
+/>
 <!--
 **UnMugViolet/UnMugViolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
