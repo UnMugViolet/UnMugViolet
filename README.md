@@ -4,7 +4,7 @@ My name is Paul Jaguin, I'm a student in web developpement. I'm working in Franc
 
 Currently in apprenticeship at Screenup
  
-- 👯 I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server" style="color: #fffff"> pangaia.app</a>
+- 👯 I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server" style="color: #fffff"> 🌱 pangaia.app</a>
 
 ## 🧑🏼‍💻 Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/Code-PHP-informational?logo=php&logoColor=white&color=%23777BB4)
