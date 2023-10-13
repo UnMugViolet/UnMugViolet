@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=UnMugViolet&theme=dracula"
-/>
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/UnMugViolet/UnMugViolet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UnMugViolet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/UnMugViolet/UnMugViolet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=UnMugViolet&theme=dracula" alt=""/>
+</a>
+
 <!--
 **UnMugViolet/UnMugViolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
