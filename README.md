@@ -1,6 +1,6 @@
 # Hello there ☕
 
-My name is Paul Jaguin, I'm a student in web developpement. I'm working in France, more specifically in Rennes󠁦󠁲, Brittany. 
+My name is Paul Jaguin, I'm a student in web development. I'm working in France, more specifically in Rennes󠁦󠁲, Brittany. 
 
 Currently in apprenticeship at Screenup !
 
