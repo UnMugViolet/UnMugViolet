@@ -2,7 +2,7 @@
 
 My name is Paul Jaguin, I'm a student in web development. I'm working in France, more specifically in Rennes󠁦󠁲, Brittany. 
 
-Currently in apprenticeship at Screenup !
+Currently in apprenticeship at <a href="https://www.screenup.com/">Screenup !</a>
 
 - 🌱  I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server">pangaia.app</a>
 - 🔭 I’m currently working on my portfolio
