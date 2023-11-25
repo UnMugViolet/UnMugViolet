@@ -6,7 +6,7 @@ Currently in apprenticeship at <a href="https://www.screenup.com/">Screenup !</a
 
 - 🌱  I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server">pangaia.app</a>
 - 🔭 I’m currently working on <a href="https://github.com/UnMugViolet/portfolio">my portfolio</a>
-- 📫 How to reach me: <a href="mailto:jaguinpaul@gmail.com">jaguinpaul@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:jaguinpaul@gmail.com" target="_blank">jaguinpaul@gmail.com</a>
  </br>
 
 ## 🧑🏼‍💻 Technologies & Tools
