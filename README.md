@@ -5,10 +5,8 @@ My name is Paul Jaguin, I'm a student in web development. I'm working in France,
 Currently in apprenticeship at <a href="https://www.screenup.com/">Screenup !</a>
 
 - 🌱  I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server">pangaia.app</a>
-- 🔭 I’m currently working on my portfolio
-- 📫 How to reach me:
-   
-        jaguinpaul@gmail.com
+- 🔭 I’m currently working on <a href="https://github.com/UnMugViolet/portfolio">my portfolio</a>
+- 📫 How to reach me: <a href="mailto:jaguinpaul@gmail.com">jaguinpaul@gmail.com</a>
  </br>
 
 ## 🧑🏼‍💻 Technologies & Tools
