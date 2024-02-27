@@ -22,8 +22,10 @@ Currently in apprenticeship at <a href="https://www.screenup.com/">Screenup !</a
    ![Static Badge](https://img.shields.io/badge/Code-Tailwind-informational?logo=tailwindcss&logoColor=06B6D4&color=06B6D4)
    ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&logoColor=white&color=F7DF1E)
    ![Static Badge](https://img.shields.io/badge/Code-Laravel-informational?logo=laravel&logoColor=white&color=%23FF2D20)
+   ![Static Badge](https://img.shields.io/badge/Code-Symfony-informational?logo=symfony&logoColor=white&color=%231A171B)
    
    ![Static Badge](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=white&color=%232496ED)
+   ![Static Badge](https://img.shields.io/badge/Tools-Kubernetes-informational?logo=kubernetes&logoColor=white&color=%232E6CE6)
    ![Static Badge](https://img.shields.io/badge/Tools-PhpMyAdmin-informational?logo=phpmyadmin&logoColor=white&color=%236C78AF)
    ![Static Badge](https://img.shields.io/badge/Tools-SonarQube-informational?logo=sonarqube&logoColor=white&color=%234E9BCD)
    ![Static Badge](https://img.shields.io/badge/Tools-Jenkins-informational?logo=jenkins&logoColor=white&color=%23D24939)
