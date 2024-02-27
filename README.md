@@ -14,7 +14,7 @@ Currently in apprenticeship at <a href="https://www.screenup.com/">Screenup !</a
       
    ![Static Badge](https://img.shields.io/badge/Code-PHP-informational?logo=php&logoColor=white&color=%23777BB4)
    ![Static Badge](https://img.shields.io/badge/Code-Vue-informational?logo=vue.js&logoColor=white&color=4FC08D)
-   ![Static Badge](https://img.shields.io/badge/Code-MySQL-informational?logo=mysql&logoColor=white&color=%234479A1)
+   ![Static Badge](https://img.shields.io/badge/Code-SQL-informational?logo=mysql&logoColor=white&color=%234479A1)
    ![Static Badge](https://img.shields.io/badge/Code-React-informational?logo=react&logoColor=white&color=%2361DAFB)
    ![Static Badge](https://img.shields.io/badge/Code-HTML-informational?logo=html5&logoColor=white&color=E34F26)
    ![Static Badge](https://img.shields.io/badge/Code-CSS-informational?logo=css3&logoColor=white&color=%231572B6)
