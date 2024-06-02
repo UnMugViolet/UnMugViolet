@@ -4,9 +4,9 @@ My name is Paul Jaguin, I'm a student in web development. I'm working in France,
 
 Currently in apprenticeship at <a href="https://www.screenup.com/">Screenup !</a>
 
-- 🌱  I’m am collaborating to <a href="https://framagit.org/gardeners/pangaia-server" target="_blank">pangaia.app</a>
-- 🔭 I’m currently working on <a href="http://paul-jaguin.mds-rennes.yt/" target="_blank">my portfolio</a>
-- 📫 How to reach me: <a href="mailto:jaguinpaul@gmail.com" target="_blank">jaguinpaul@gmail.com</a>
+- 🌱  I’m am collaborating to <a target="_blank" href="https://framagit.org/gardeners/pangaia-server">pangaia.app</a>
+- 🔭 I’m currently working on <a target="_blank" href="http://paul-jaguin.mds-rennes.yt/" >my portfolio</a>
+- 📫 How to reach me: <a target="_blank" href="mailto:jaguinpaul@gmail.com">jaguinpaul@gmail.com</a>
  </br>
 
 ## 🧑🏼‍💻 Technologies & Tools
