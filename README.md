@@ -25,6 +25,7 @@ Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
    ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&logoColor=white&color=F7DF1E)
    ![Static Badge](https://img.shields.io/badge/Code-Laravel-informational?logo=laravel&logoColor=white&color=%23FF2D20)
    ![Static Badge](https://img.shields.io/badge/Code-Symfony-informational?logo=symfony&logoColor=white&color=%231A171B)
+   ![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoSize=2)
    
    ![Static Badge](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=white&color=%232496ED)
    ![Static Badge](https://img.shields.io/badge/Tools-Kubernetes-informational?logo=kubernetes&logoColor=white&color=%232E6CE6)
