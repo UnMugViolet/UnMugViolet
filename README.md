@@ -1,6 +1,6 @@
 # Hello there ☕
 
-My name is Paul Jaguin, I'm a web developper. And I keep learing at 42 school. I'm working in France, more specifically in Paris. 
+My name is Paul Jaguin, I'm a web developer. And I keep learing at 42 school. I'm working in France, more specifically in Paris. 
 
 <div style="display: flex; align-items: center;">
 Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
