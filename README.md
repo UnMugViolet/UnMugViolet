@@ -26,11 +26,12 @@ Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
    ![Static Badge](https://img.shields.io/badge/Code-Laravel-informational?logo=laravel&logoColor=white&color=%23FF2D20)
    ![Static Badge](https://img.shields.io/badge/Code-Symfony-informational?logo=symfony&logoColor=white&color=%231A171B)
    ![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoSize=2)
+   ![Static Badge](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoSize=2)
    
    ![Static Badge](https://img.shields.io/badge/Tools-Docker-informational?logo=docker&logoColor=white&color=%232496ED)
    ![Static Badge](https://img.shields.io/badge/Tools-Kubernetes-informational?logo=kubernetes&logoColor=white&color=%232E6CE6)
    ![Static Badge](https://img.shields.io/badge/Tools-PhpMyAdmin-informational?logo=phpmyadmin&logoColor=white&color=%236C78AF)
-   ![Static Badge](https://img.shields.io/badge/Tools-SonarQube-informational?logo=sonarqube&logoColor=white&color=%234E9BCD)
+   ![Static Badge](https://img.shields.io/badge/Tools-SonarQube-informational?logo=Sonar&logoColor=white&color=%234E9BCD)
    ![Static Badge](https://img.shields.io/badge/Tools-Jenkins-informational?logo=jenkins&logoColor=white&color=%23D24939)
    
 </div>
