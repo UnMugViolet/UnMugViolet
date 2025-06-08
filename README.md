@@ -1,14 +1,14 @@
 # Hello there ☕
 
-My name is Paul Jaguin, I'm a student in web development. I'm working in France, more specifically in Rennes󠁦󠁲, Brittany. 
+My name is Paul Jaguin, I'm a web developper. And I keep learing at 42 school. I'm working in France, more specifically in Paris. 
 
 <div style="display: flex; align-items: center;">
 Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
 </div>
 
 - 🌱  I’m am collaborating to <a target="_blank" href="https://framagit.org/gardeners/pangaia-server">pangaia.app</a>
-- 🔭 I’m currently working on <a target="_blank" href="https://github.com/UnMugViolet/minishell" >minishell</a>
-- 📫 How to reach me: <a target="_blank" href="mailto:jaguinpaul@gmail.com">jaguinpaul@gmail.com</a>
+- 🔭 I’m currently working on <a target="_blank" href="https://github.com/UnMugViolet/42" >cube3d</a>
+- 📫 How to reach me: <a target="_blank" href="mailto:jaguinpaul@gmail.com">jaguinpaul@gmail.com</a> or using my contact form on <a target="_blank" href="https://pauljaguin.com">my portfolio</a>
  </br>
 
 ## 🧑🏼‍💻 Technologies & Tools
