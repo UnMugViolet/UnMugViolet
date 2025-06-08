@@ -19,7 +19,7 @@ Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
    ![Static Badge](https://img.shields.io/badge/Code-SQL-informational?logo=mysql&logoColor=white&color=%234479A1)
    ![Static Badge](https://img.shields.io/badge/Code-React-informational?logo=react&logoColor=white&color=%2361DAFB)
    ![Static Badge](https://img.shields.io/badge/Code-HTML-informational?logo=html5&logoColor=white&color=E34F26)
-   ![Static Badge](https://img.shields.io/badge/Code-CSS-informational?logo=css3&logoColor=white&color=%231572B6)
+   ![Static Badge](https://img.shields.io/badge/Code-CSS-informational?logo=css&logoColor=white&color=%231572B6)
    ![Static Badge](https://img.shields.io/badge/Code-Scss-informational?logo=sass&logoColor=white&color=%23CC6699)
    ![Static Badge](https://img.shields.io/badge/Code-Tailwind-informational?logo=tailwindcss&logoColor=06B6D4&color=06B6D4)
    ![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?logo=javascript&logoColor=white&color=F7DF1E)
