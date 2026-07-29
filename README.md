@@ -2,9 +2,7 @@
 
 I'm Paul Jaguin, I'm a web developer. And I'm currently studying  at 42 school. I'm working in France, more specifically in Paris.
 
-<div style="display: flex; align-items: center;">
 Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
-</div>
 
 - 🌱  I’m am collaborating on <a target="_blank" href="https://framagit.org/gardeners/pangaia-server">pangaia.app</a>
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/UnMugViolet/42/tree/main/libasm" >libasm</a>
