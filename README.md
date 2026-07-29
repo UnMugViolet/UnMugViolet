@@ -46,6 +46,6 @@ Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
    </a>
    
    <a href="https://github.com/UnMugViolet">
-       <img align="center" src="https://github-readme-stats-unmugviolet.vercel.app/api/?username=UnMugViolet&theme=react&show_icons=true" alt="Paul's GitHub page" height="200"/>
+       <img align="center" src="https://github-stats-extended.vercel.app/api/?username=UnMugViolet&theme=react&show_icons=true" alt="Paul's GitHub page" height="200"/>
    </a>
 </div>
