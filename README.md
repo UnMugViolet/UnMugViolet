@@ -40,7 +40,7 @@ Currently learning at <a href="https://42.fr/" target="_blank">42 Paris</a>
 </br>
 <div align="center"> 
    <a href="https://github.com/UnMugViolet" >
-     <img align="center" src="https://github-readme-stats-unmugviolet.vercel.app/api/top-langs/?username=UnMugViolet&langs_count=3&theme=react"" alt="Paul's GitHub languages" height="200"/>
+     <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=UnMugViolet&langs_count=3&theme=react"" alt="Paul's GitHub languages" height="200"/>
    </a>
    
    <a href="https://github.com/UnMugViolet">
